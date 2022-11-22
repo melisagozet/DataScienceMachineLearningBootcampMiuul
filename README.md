@@ -32,13 +32,13 @@
 
 **Measurement Problems** 
 
-Rating Products 
+* Rating Products 
 
-Sorting Products 
+* Sorting Products 
 
-Sorting Reviews 
+* Sorting Reviews 
 
-AB Testing 
+* AB Testing 
 
  
 
