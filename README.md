@@ -66,4 +66,22 @@
 
 * Feature Extraction 
 
+
+**Machine Learning**
+
+* Temel Kavramlar 
+
+* Doğrusal Regresyon
+
+* Lojistik Regresyon
+
+* KNN
+
+* CART
+
+* Gelişmiş Ağaç Yöntemleri
+
+* Denetimsiz Öğrenme
+
+* Yapay Öğrenme Pipeline
  
