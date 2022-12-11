@@ -64,7 +64,7 @@ A bootcamp program covering the following topics from basic to advanced for anyo
 
 **Projects**
 * Telco Customer Churn Feature Engineering
-* Diabetes Feature Engineering
+* Titanic Feature Engineering
 
 
 | Machine Learning (Week 10-11-12-13)  |                                                  
@@ -79,9 +79,10 @@ A bootcamp program covering the following topics from basic to advanced for anyo
 | Machine Learning Pipeline|
 
 **Projects**
-* Titanic
+* Titanic Machine Learning
+* Diabetes Feature Engineering & Machine Learning
 * House Prices - Advanced Regression Techniques
-* Flo
+* Flo Machine Learning
 * Scoutium Classification with Machine Learning
 
 |SQL (Week 14)|
